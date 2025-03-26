@@ -6,7 +6,7 @@ Techie Global
 
 Highly Advanced Tech
 
-sometimes when bored i dabble in high-level software
+sometimes when bored i dabble in Alien Tech
 
 but I will fix my portfolio soon currently learning Data Engineering 
 
