@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 Just a skilled web 3 | web 2.0 normal developer  </h3>
 
-I hope someone out there believes in you.
+Techie Global 
 
 Highly Advanced Tech
 
