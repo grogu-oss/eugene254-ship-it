@@ -1,6 +1,6 @@
 # ⚛️ Aeon Labs | The Open Science Renaissance
 
-## 👋🏽 Hi, I’m Eugene Ochako
+## 👋🏽 Hi, I’m Eugene 
 
 > Co-building a science-first future with the courage of Eugene Mallove, the brilliance of Tesla, and the power of Generative AI.
 
@@ -8,7 +8,7 @@
 
 ## 🔥 About Me
 
-- 🎓 Business & IT Graduate @ Strathmore University (2024)
+- 🎓 Business & IT Graduate @ Strathmore University (2025)
 - 💻 Self-taught in Computer Science, Physics, and Engineering
 - 🌍 From Nairobi, building globally for a sustainable planet
 - 🧪 Founder of Aeon Labs — Open Science meets Frontier Tech
@@ -57,8 +57,8 @@ We believe in a **revolution of truth and discovery**:
 
 ## 📊 GitHub Stats
 
-![Eugene Ochako GitHub Stats](https://github-readme-stats.vercel.app/api?username=paycoo-droid&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paycoo-droid&theme=radical)
+![Eugene Ochako GitHub Stats](https://github-readme-stats.vercel.app/api?username=grogu-oss&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=grogu-oss&theme=radical)
 
 ---
 
