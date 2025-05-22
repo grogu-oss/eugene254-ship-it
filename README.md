@@ -6,15 +6,6 @@
 
 ---
 
-## 🔥 About Me
-
-- 🎓 Business & IT Graduate @ Strathmore University (2025)
-- 💻 Self-taught in Computer Science, Physics, and Engineering
-- 🌍 From Nairobi, building globally for a sustainable planet
-- 🧪 Founder of Aeon Labs — Open Science meets Frontier Tech
-
----
-
 ## 🛠️ Tech I Use to Build the Future
 
 | Frontend         | Backend            | Database         | AI / Science        |
@@ -24,7 +15,7 @@
 
 ---
 
-## 🚀 My Projects
+## 🚀 Projects
 
 ### ⚡ Aeon Labs
 An open platform for building, testing, and funding next-gen science — from fusion to sustainability.
